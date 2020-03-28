@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Prepr Challenge
                 </div>
 
                 <div class="links">
