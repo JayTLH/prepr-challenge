@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
 
 class DatabaseSeeder extends Seeder
 {
@@ -209,6 +210,7 @@ class DatabaseSeeder extends Seeder
             'India',
         );
 
+        // seed all lab information
         for ($i = 0; $i < count($dataTitle); $i++) {
             DB::table('labs')->insert([
                 'username' => 'labmanager',
@@ -230,5 +232,15 @@ class DatabaseSeeder extends Seeder
                 'status' => '1',
             ]);
         }
+
+        // seed admin login
+        // DB::table('users')->insert([
+        //     'name' => 'admin',
+        //     'email' => 'test@test.com';
+        //     $table->timestamp('email_verified_at')->nullable();
+        //     $table->string('password');
+        //     $table->rememberToken();
+        //     $table->timestamps();
+        // ]);
     }
 }
