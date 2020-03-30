@@ -2,6 +2,7 @@
 
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\Hash;
 
 class DatabaseSeeder extends Seeder
 {
@@ -234,13 +235,11 @@ class DatabaseSeeder extends Seeder
         }
 
         // seed admin login
-        // DB::table('users')->insert([
-        //     'name' => 'admin',
-        //     'email' => 'test@test.com';
-        //     $table->timestamp('email_verified_at')->nullable();
-        //     $table->string('password');
-        //     $table->rememberToken();
-        //     $table->timestamps();
-        // ]);
+        DB::table('users')->insert([
+            'name' => 'Admin',
+            'email' => 'admin@test.com',
+            'password' => Hash::make('12341234'),
+            'type' => 'admin',
+        ]);
     }
 }

@@ -2,8 +2,8 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\Http\Request;
-
+use Illuminate\Support\Facades\Auth;
+use App\User;
 use App\Labs;
 
 class LabsController extends Controller
@@ -11,7 +11,12 @@ class LabsController extends Controller
     public function index()
     {
         $labs = Labs::all()->toArray();
-        // dd($labs);
+        $admin = Auth::user()->type;
+
+        if ($admin === 'admin') {
+            return view('home', ['labs' => $labs, 'admin' => $admin]);
+        }
+
         return view('home', ['labs' => $labs]);
     }
 }

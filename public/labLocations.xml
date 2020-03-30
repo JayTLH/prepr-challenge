@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<markers>
+  <marker id="1" name="Linckia - Huai Hai Community" address="17th Floor, 1 Huai Hai Zhong Road, Huangpu, Shanghai, China" lat="121.480206" lng="31.224671" type=""/>
+  <marker id="2" name="Linckia - Dong Hai 7th" address="7th Floor, Dong Hai Plaza Building 3, Yuyuan East Road, Shanghai, China" lat="121.449214" lng="31.226267" type=""/>
+  <marker id="3" name="Chuangzhi Community" address="6F, Tower 2, Chuangzhi Science &amp; Technology Center, 477 Zhengli Road, Shanghai, China" lat="121.50768" lng="31.30823" type=""/>
+  <marker id="4" name="COWORK - Chuanzhi World Business Center" address="3th Floor, Chuanzhi World Business Center Building 6,7, 500 Zheng Yue Road, Yangpu District, Shanghai, China" lat="121.524731" lng="31.332154" type=""/>
+  <marker id="5" name="SOHO 3Q - Bund 3Q l" address="Bund SOHO, 88 2nd East Zhongshan Road, Huangpu District, Shanghai, China" lat="121.492723" lng="31.2315534" type=""/>
+  <marker id="6" name="SOHO3Q - Bund 3Q II" address="Bund SOHO, 88 2nd East Zhongshan Road, Huangpu District, Shanghai, China" lat="121.492723" lng="31.2315534" type=""/>
+  <marker id="7" name="SOHO3Q - Sky 3Q" address="968 Jin Zhong Road, Changning District, Shanghai, China" lat="121.35243" lng="31.2208583" type=""/>
+  <marker id="8" name="Linckia - Tongji Community" address="1st Floor, Design Center Promotion Center, 1230 Siping Road, Yangpu District, Shanghai, China" lat="121.504764" lng="31.278778" type=""/>
+  <marker id="9" name="XNode - Zhang Jiang" address="4F, 800 Naxian Road, Pudong District, Shanghai, China" lat="121.605051" lng="31.1812077" type=""/>
+  <marker id="10" name="XNode - Hong Qiao" address="5F, Building D, Orient International Mansion, 85 Loushanguan Road, Changning District, Shanghai, China" lat="121.402548" lng="31.204984" type=""/>
+  <marker id="11" name="Naked Hub - Xikang" address="189 Changshou Road, Putuo District, Shanghai, China" lat="121.439496" lng="31.24338" type=""/>
+  <marker id="12" name="MIXPACE Townhide" address="612 Nan Jing Xi Lu, Shanghai, China" lat="121.465445" lng="31.230828" type=""/>
+  <marker id="13" name="Naked Hub - Fu Xing Lu" address="3th Floor, 1237 Fu Xing Zhong Road, Xuhui District, Shanghai, China" lat="121.458184" lng="31.212578" type=""/>
+  <marker id="14" name="We Geek" address="Xinzhuang Lu 258, Palm Plaza, Building 32, Shanghai, China" lat="121.327414" lng="31.09247645" type=""/>
+  <marker id="15" name="Terminal" address="34-36 Irakli Abashidze Street, Tbilisi, Georgia" lat="44.7655064" lng="41.7074429" type=""/>
+  <marker id="16" name="UG Startup Factory" address="77a Merab Kostava Street, Tbilisi, Georgia" lat="44.7797785" lng="41.7229554" type=""/>
+  <marker id="17" name="Vere Loft" address="Khorava Street 3, Tbilisi, Georgia" lat="44.783586" lng="41.7062892" type=""/>
+  <marker id="18" name="Generator 9.8" address="Antoneli street #29, Tbilisi, Georgia" lat="44.8020677" lng="41.6997859" type=""/>
+  <marker id="19" name="Publica" address="18 Lado Gudiashvili Street, Tbilisi, Georgia" lat="44.7999328" lng="41.69745123" type=""/>
+  <marker id="20" name="Dev X" address="B/H Keshav Baugh Party Plot,, Near Shivalik High-Street., I I M, Vastrapur, Ahmedabad, Gujarat 380015, India, Vastrapur, Ahmedabad, India" lat="72.5301689" lng="23.0290001" type=""/>
+  <marker id="21" name="Uncubate" address="308, Aeon Complex, Vijay Cross Road, Near Angira Society, Ahmedabad, India" lat="72.549655" lng="23.0432348" type=""/>
+  <marker id="22" name="DoubleO" address="B501 Krishna Complex, Bodakdev, Ahmedabad, India" lat="72.510955" lng="23.032447" type=""/>
+  <marker id="23" name="Pravel CoWorking Space" address="Makarba, Ahmedabad, Gujarat, Makarba Road, S.G. Highway, Sarkhej, Ahmedabad, India" lat="72.4991682" lng="22.9946966" type=""/>
+  <marker id="24" name="14 The Hub" address="605 Venus Benecia Maruti Nexa Building Pakwaan restaurant service lane S.G. Highway, Ahmedabad, India" lat="72.5168064" lng="23.0418232" type=""/>
+  <marker id="25" name="Daftar - The coworking space" address="Panjara Pol, Ambawadi, Ahmedabad, Gujarat 380015, India, IIM Road, Ahmedabad, India" lat="72.542312" lng="23.0282646" type=""/>
+  <marker id="26" name="5B Colab" address="5B Vishwabharti society, Opp BSNL office, Opposite BSNL telephone exchange, Ahmedabad, India" lat="72.559113" lng="23.03156937" type=""/>
+  <marker id="27" name="Pravel Solutions" address="Dev Auram, Prahlad Nagar, Ahmedabad, India" lat="72.5148738" lng="23.0119548" type=""/>
+  <marker id="28" name="Next57 Coworking" address="2nd Floor, Block N, S.G. Road, Safal Mondeal Retail Park, Bodakdev Near, Rajpath Rangoli Rd, Ahmedabad, India" lat="72.5082121" lng="23.0326554" type=""/>
+  <marker id="29" name="InstaOffice" address="Gujarat International Finance Tec-City, Gujarat, Building 56A, Block No. 56, Road-5C, Zone-5, Gandhinagar, India" lat="72.6831136" lng="23.1586396" type=""/>
+  <marker id="30" name="Spaces" address="Iscon Emporio, Next to Star Bazaar, Jodhpur Crossroads, Ahmedabad, India" lat="72.5243944" lng="23.0263387" type=""/>
+</markers>
