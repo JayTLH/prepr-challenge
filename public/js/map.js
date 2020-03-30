@@ -7,7 +7,6 @@ var service;
 var infowindow;
 
 function createMarkers(place) {
-    console.log(place)
     var location = new google.maps.LatLng(place.longitude, place.latitude);
 
     var marker = new google.maps.Marker({
